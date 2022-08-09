@@ -6,7 +6,7 @@ I'm a Software Engineer, and Content Creator. I'm passionate about sharing knowl
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
+- 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
@@ -15,5 +15,5 @@ I'm a Software Engineer, and Content Creator. I'm passionate about sharing knowl
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adaobichumaokeke&show_icons=true&include_all_commits=true&hide_border=true" alt="Chumzine's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adaobichumaokeke&langs_count=8&layout=compact&hide_border=true" alt="Chumzine's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chumzine&show_icons=true&include_all_commits=true&hide_border=true" alt="Chumzine's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chumzine&langs_count=8&layout=compact&hide_border=true" alt="Chumzine's GitHub stats" /> |
 | ------------- | ------------- |
